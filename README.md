@@ -1,0 +1,2 @@
+<img src="assets/Capa.png">
+<p style="font-size:16px; margin-top: 1rem;">Os médicos da DoctorCare vão além dos sintomas para tratar a causa raiz de sua doença e proporcionar uma cura a longo prazo.</p>
